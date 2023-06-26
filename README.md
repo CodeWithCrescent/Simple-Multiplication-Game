@@ -21,8 +21,16 @@ Interactive application built with JavaScript
     <li>The game includes music sounds (start, wrong, correct, gameover) for creating a playful athmosphere.</li>
     <li>After the time is out, the gameover window is displayed with the total score.</li>
    </ul>  
-<!-- <img src="screenshots/multiplicationscreen1.png" width="350px">
-<img src="screenshots/multiplicationscreen2.png" width="350px">
-<img src="screenshots/multiplicationscreen3.png" width="350px">
-<img src="screenshots/multiplicationscreen4.png" width="350px">
- -->
+  **Screenshots**
+  <table style="border: none;">
+    <tr>
+      <td>
+        <img src="https://i.ibb.co/hMTxk6D/Screenshot-11.png" alt="Screenshot-11" border="0" width="350px">
+        <img src="https://i.ibb.co/z5gqtCS/Screenshot-12.png" alt="Screenshot-12" border="0" width="350px">
+      </td>
+      <td>
+        <img src="https://i.ibb.co/bFpVCD6/Screenshot-13.png" alt="Screenshot-13" border="0" width="350px">
+        <img src="https://i.ibb.co/f28mm0J/Screenshot-15.png" alt="Screenshot-15" border="0" width="350px">
+      </td>
+    </tr>
+  </table>
