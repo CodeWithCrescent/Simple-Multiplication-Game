@@ -1,4 +1,4 @@
-# MultiplicationGame
+# Multiplication Game
 Interactive application built with JavaScript
 
 <h4>Description</h4>
@@ -21,7 +21,8 @@ Interactive application built with JavaScript
     <li>The game includes music sounds (start, wrong, correct, gameover) for creating a playful athmosphere.</li>
     <li>After the time is out, the gameover window is displayed with the total score.</li>
    </ul>  
-<img src="screenshots/multiplicationscreen1.png" width="350px">
+<!-- <img src="screenshots/multiplicationscreen1.png" width="350px">
 <img src="screenshots/multiplicationscreen2.png" width="350px">
 <img src="screenshots/multiplicationscreen3.png" width="350px">
 <img src="screenshots/multiplicationscreen4.png" width="350px">
+ -->
